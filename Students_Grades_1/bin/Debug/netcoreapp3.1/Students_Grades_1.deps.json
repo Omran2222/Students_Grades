@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Students_Grades_1/1.0.0": {
+        "runtime": {
+          "Students_Grades_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Students_Grades_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

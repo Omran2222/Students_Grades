@@ -1,0 +1,13 @@
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\bin\Debug\netcoreapp3.1\Students_Grades_1.exe
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\bin\Debug\netcoreapp3.1\Students_Grades_1.deps.json
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\bin\Debug\netcoreapp3.1\Students_Grades_1.runtimeconfig.json
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\bin\Debug\netcoreapp3.1\Students_Grades_1.runtimeconfig.dev.json
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\bin\Debug\netcoreapp3.1\Students_Grades_1.dll
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\bin\Debug\netcoreapp3.1\Students_Grades_1.pdb
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\obj\Debug\netcoreapp3.1\Students_Grades_1.csproj.AssemblyReference.cache
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\obj\Debug\netcoreapp3.1\Students_Grades_1.AssemblyInfoInputs.cache
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\obj\Debug\netcoreapp3.1\Students_Grades_1.AssemblyInfo.cs
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\obj\Debug\netcoreapp3.1\Students_Grades_1.csproj.CoreCompileInputs.cache
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\obj\Debug\netcoreapp3.1\Students_Grades_1.dll
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\obj\Debug\netcoreapp3.1\Students_Grades_1.pdb
+C:\Users\omran\source\repos\Students_Grades_1\Students_Grades_1\obj\Debug\netcoreapp3.1\Students_Grades_1.genruntimeconfig.cache
